@@ -1,0 +1,7 @@
+{
+  "name": "nizam-pista-harees-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
