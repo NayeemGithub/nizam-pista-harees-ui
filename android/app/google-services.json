@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428902595611",
+    "project_id": "nizam-pista-harees",
+    "storage_bucket": "nizam-pista-harees.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428902595611:android:0acdae7b609822e0e54cbe",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428902595611-18ag0r272o46jff24fm7b44tsffdk4eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "5f91f6fdd4bc87c2625363956079f4bc3557bac0"
+          }
+        },
+        {
+          "client_id": "428902595611-8bu9vft3bltbqbn88lr91qiae64o78cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRWPLLejV8Y3wfSvz8xycVzI5GcjiAbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428902595611-8bu9vft3bltbqbn88lr91qiae64o78cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
